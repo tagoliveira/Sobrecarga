@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga", "Sobrecarga\Sobrecarga.csproj", "{7832CBBE-7C7C-4213-B34C-8A0EE89BB86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7832CBBE-7C7C-4213-B34C-8A0EE89BB86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7832CBBE-7C7C-4213-B34C-8A0EE89BB86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7832CBBE-7C7C-4213-B34C-8A0EE89BB86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7832CBBE-7C7C-4213-B34C-8A0EE89BB86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67FBEB1-A77C-4C47-89B8-B8DC04262D15}
+	EndGlobalSection
+EndGlobal
